@@ -1,3 +1,3 @@
 # magic_ball
 ruby
-$ ruby 8bals
+$ ruby magic_ball.rb
