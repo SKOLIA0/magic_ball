@@ -34,11 +34,7 @@ answers = [
 ]
 
 puts greetings.sample
-
 puts
-
 sleep 2
-
 puts "Знаки говорят –"
-
 puts "#{answers.sample}."
