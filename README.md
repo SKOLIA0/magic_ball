@@ -6,4 +6,4 @@
 ```
  ruby magic_ball.rb
  ```
-
+ruby language
